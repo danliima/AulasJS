@@ -1,4 +1,4 @@
-//No JS realizamos comentários utilizando as duas barras ates do texto ou código para comentar
+//No JS realizamos comentários utilizando as duas barras antes do texto ou código para comentar
 console.log("Trabalhando com variáveis");
 //JS é case sensitive
 const idade = 29;
