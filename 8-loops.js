@@ -5,7 +5,7 @@ const listaDeDestinos = new Array(
     `Rio de Janeiro`
 );
 
-const idadeComprador = 17;
+const idadeComprador = 18;
 const estaAcompanhada = false;
 let temPassagemComprada = false;
 const destino = "Salvador";
@@ -36,10 +36,10 @@ if(podeComprar&&destinoExiste){
 }
 
 // Exemplio de como usar o for
-for(let cont = 0 ;contador<3 ;cont++){ //é comum usarmos o i como variável no for e o i++ é um atalho que substitui essa variável contador += 1
-    if(listaDeDestinos[contador] == destino){
-        destinoExiste = true;
-    }
-}
+// for(let cont = 0 ;contador<3 ;cont++){ //é comum usarmos o i como variável no for e o i++ é um atalho que substitui essa variável contador += 1
+//     if(listaDeDestinos[contador] == destino){
+//         destinoExiste = true;
+//     }
+//}
 
 

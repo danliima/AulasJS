@@ -21,6 +21,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\7-condicionais.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Ex3-ListadeCores",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Ex3-ListaDeCores.js"
         }
     ]
 }
